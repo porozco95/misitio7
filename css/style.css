@@ -6,13 +6,33 @@
 	max-width: 1200px;
 	display: flex;
 	justify-content: space-around;
-	margin: auto;
+	align-items: center;
 }
 
 .menu1{
-	
+
 }
 
 .menu2{
 
+}
+
+.menu2 span{
+	border: grey 2px solid;
+}
+
+.menu_nav{
+	display: flex;
+    max-width: 900px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.linea{
+	max-width: 1200px;
+  	height: 2px;
+  	background-color: lightgrey;
+  	margin: auto;
 }
